@@ -1,4 +1,4 @@
-#Code Book For Wearable Computing Project
+# Code Book For Wearable Computing Project
 Project link
 
 Datasets:
@@ -6,21 +6,21 @@ Datasets:
 * Average_for_Wearable_Computing.csv
 
 Variables in the datasets:
-##1. Mean_SD_Wearable_Computing.csv
+## 1. Mean_SD_Wearable_Computing.csv
 
 ###Subject
 the subject who performed the activity. Its range is from 1 to 30
 
-###Activity
+### Activity
 activity name. Including 6 activities
-*WALKING
-*WALKING_UPSTAIRS
-*WALKING_DOWNSTAIRS
-*SITTING
-*STANDING
-*LAYING
+* WALKING
+* WALKING_UPSTAIRS
+* WALKING_DOWNSTAIRS
+* SITTING
+* STANDING
+* LAYING
 
-###Means and standard deviations for 33 features for each window
+### Means and standard deviations for 33 features for each window
 All numeric variables
 (name explanation and units are in the end)
  
@@ -105,14 +105,14 @@ All numeric variables
     -X –Y –Z: 3axials of signals)
 
 
-##2. Average_for_Wearable_Computing.csv
-###Subject
+## 2. Average_for_Wearable_Computing.csv
+### Subject
 the subject who performed the activity. Its range is from 1 to 30
 
-###Activity
+### Activity
 activity name. Including 6 activities like in the above table
 
-###Means and standard deviations for 33 features
+### Means and standard deviations for 33 features
 average of each variable (means and standard deviations for 33 features) for each activity and each subject
 variable name and explanation are the same as those in above table
 
