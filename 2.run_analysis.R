@@ -69,6 +69,12 @@ levels(AVRtable$activity) <- activitytable$activity_name
 # output the second tidy data
 write.csv(AVRtable,'Average_for_Wearable_Computing.txt',row.names=FALSE)
 
+
+
+
+###############
+# Sys.time()
+#[1] "2014-04-28 07:07:19 CST"
 ###############
 #> sessionInfo()
 
