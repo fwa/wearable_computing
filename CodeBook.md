@@ -1,13 +1,13 @@
 # Code Book For Wearable Computing Project
 -----------------------------------------
-Project link
 
-Result Datasets:
+##Result Datasets:
 * Mean_SD_Wearable_Computing.txt
 * Average_for_Wearable_Computing.txt
 
-Variables in the datasets:
-## 1. Mean_SD_Wearable_Computing.csv
+##Variables in the datasets:
+
+### 1. Mean_SD_Wearable_Computing.txt
 
 ###Subject
 the subject who performed the activity. Its range is from 1 to 30
@@ -92,21 +92,24 @@ All numeric variables
     fBodyBodyGyroMag-std()
     fBodyBodyGyroJerkMag-std()
 
-	(Variable name explanation and Units: fBodyGyro-mean()-Z, tGravityAccMag-mean()
-    prefix 't': time domain signals
-    prefix 'f': frequency domain signals
-    Body: Signals for body
-    Gravity: Signals for Gravity
-    Acc: linear acceleration, unit - 'g'
-    Gyro: angular velocity, unit - radians/second
-    Mag: the magnitude of these signals were calculated using the Euclidean norm
-    mean(): Mean value
-    std(): Standard deviation
-    Jerk: Jerk signals
-    -X –Y –Z: 3axials of signals)
+Variable name explanation and Units
+
+    Exapmle: fBodyGyro-mean()-Z, tGravityAccMag-mean()
+    
+	    prefix 't': time domain signals
+	    prefix 'f': frequency domain signals
+	    Body: Signals for body
+	    Gravity: Signals for Gravity
+	    Acc: linear acceleration, unit - 'g'
+	    Gyro: angular velocity, unit - radians/second
+	    Mag: the magnitude of these signals were calculated using the Euclidean norm
+	    mean(): Mean value
+	    std(): Standard deviation
+	    Jerk: Jerk signals
+	    -X –Y –Z: 3axials of signals
 
 
-## 2. Average_for_Wearable_Computing.csv
+### 2. Average_for_Wearable_Computing.txt
 ### Subject
 the subject who performed the activity. Its range is from 1 to 30
 
@@ -117,5 +120,5 @@ activity name. Including 6 activities like in the above table
 average of each variable (means and standard deviations for 33 features) for each activity and each subject
 variable name and explanation are the same as those in above table
 
-
+-------------------
 2014-4-28
