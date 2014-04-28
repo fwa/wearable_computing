@@ -1,9 +1,10 @@
 # Code Book For Wearable Computing Project
+-----------------------------------------
 Project link
 
-Datasets:
-* Mean_SD_Wearable_Computing.csv
-* Average_for_Wearable_Computing.csv
+Result Datasets:
+* Mean_SD_Wearable_Computing.txt
+* Average_for_Wearable_Computing.txt
 
 Variables in the datasets:
 ## 1. Mean_SD_Wearable_Computing.csv
